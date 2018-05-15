@@ -4,10 +4,7 @@ import java.util.*;
 import java.awt.SystemTray;
 import java.text.*;
 
-/**
- * The Sudoku class creates a random standard (9x9) Sudoku board through the use
- * of backtracking techniques.
- */
+//backtracking techniques used.
 public class Sudoku {
 	public static int[][] board;
 	public static final int BOARD_WIDTH = 9;
